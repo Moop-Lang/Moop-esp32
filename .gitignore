@@ -1,0 +1,20 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+build/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
